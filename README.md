@@ -2,17 +2,17 @@
 
  - Have multiple "projects" or "products"
  - Reusable components
- - Proudly-found-elsewhere instead of NIH
+ - Use Proudly-found-elsewhere as much as possible
  - Simplicity / easy to understand
 
 ## Concepts
 
  - [ ] Workspaces: For enviroments
- - [ ] Custom Modules for Projects
+ - [ ] Custom Terraform Modules for Projects/Products
  - [ ] Terraform itself for dependency management
  - [ ] Folders for Layers (?) (is this layering really a best practise?)
  - [ ] Encrypted remote state in S3
- - [ ] Secrets stored in native AWS Service like SSM or Secrets Manager
+ - [ ] Secrets stored in native AWS Services like SSM or Secrets Manager
 
 
  ## References
